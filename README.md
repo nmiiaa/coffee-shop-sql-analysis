@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis (SQL)
 
-A beginner-friendly SQL project that builds a small relational database for a fictional coffee shop and answers business questions about sales and customer behavior.
+A beginner SQL project that builds a small relational database for a fictional coffee shop and answers business questions about sales and customer behavior.
 
 ## Tools
 - SQL (SQLite)
